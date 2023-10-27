@@ -6,7 +6,7 @@
  <Listings>
     <Listing>
       <VirtualTourLink>
-         <https://www.grupozap.com/virtualtourlinkexample](https://invictusimoveis.github.io/COD_19991_/>
+         <https://https://invictusimoveis.github.io/COD_19991_/>
       </VirtualTourLink>
     </Listing>
  </Listings>
